@@ -1,0 +1,32 @@
+=========================================================
+||      Program Implementasi Integrasi Numerik         ||
+||                 Metode Trapezoid                    ||
+||            Metode Numerik - Kelas B                 ||
+||     Abdul Fattah Rahmadiansyah - 21120122120028     ||
+=========================================================
+
+N = 10:
+π Approximation = 3.1399259889071587
+Execution Time = 0.00216260 detik
+Error RMS = 0.0016666646826344333
+Error RMS in percentage = 0.0530515845%
+
+N = 100:
+π Approximation = 3.141575986923129
+Execution Time = 0.00237050 detik
+Error RMS = 1.6666666664111318e-05
+Error RMS in percentage = 0.0005305165%
+
+N = 1000:
+π Approximation = 3.141592486923127
+Execution Time = 0.00242380 detik
+Error RMS = 1.6666666624587378e-07
+Error RMS in percentage = 0.0000053052%
+
+N = 10000:
+π Approximation = 3.1415926519231263
+Execution Time = 0.00392880 detik
+Error RMS = 1.666666804567285e-09
+Error RMS in percentage = 0.0000000531%
+
+π Reference = 3.141592653589793
