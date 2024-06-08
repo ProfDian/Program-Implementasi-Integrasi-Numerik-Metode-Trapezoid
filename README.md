@@ -1,6 +1,6 @@
 # Program-Implementasi-Integrasi-Numerik-Metode-Trapezoid
 
-Program ini merupakan impelementasi salah satu metode numerik integral trapezoid.
+Program ini merupakan impelementasi salah satu metode numerik integral trapezoid dalam bahasa pemrograman Python.
 Tujuan dari program ini adalah untuk meghampiri nilai pi dengan nilai 3.141592653589793
 
 Program ini akan menghampiri nilai pi di atas sesuai dengan jumlah subinterval dari 10, 100, 1000, 10000
